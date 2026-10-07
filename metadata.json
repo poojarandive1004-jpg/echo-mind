@@ -1,0 +1,6 @@
+{
+  "name": "Echo Mind - Emotional Wellness & Self-Awareness Platform",
+  "description": "An AI-based emotional wellness and self-awareness platform featuring emotional journaling, mood tracking, structured assessments, interactive quizzes, and AI companion Echo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

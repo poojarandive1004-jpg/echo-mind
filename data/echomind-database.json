@@ -1,0 +1,258 @@
+{
+  "users": [
+    {
+      "id": "user-aria-demo",
+      "email": "aria.chen@echomind.edu",
+      "name": "Aria Chen",
+      "avatar": "🌸",
+      "bio": "BCA Final Year student, frontend enthusiast, and coffee lover learning to nurture inner peace.",
+      "collegeName": "School of Computer Applications (BCA)",
+      "academicYear": "Final Year - Semester VI",
+      "reflectionGoal": "To balance project viva submissions with gentle emotional self-care.",
+      "createdAt": "2026-09-22T11:52:08.305Z"
+    }
+  ],
+  "journals": [
+    {
+      "id": "j-01",
+      "userId": "user-aria-demo",
+      "title": "Project Viva Prep & Rainy Evening Thoughts",
+      "content": "Today was an emotional rollercoaster with our BCA project milestone presentation. The faculty asked tough questions about database normalization and API response latency. At first my chest felt tight and I thought I stumbled. But afterward, my teammate brought hot lavender matcha and we realized we actually passed all test cases! I feel relieved and proud of our resilience.",
+      "manualMood": "Calm",
+      "detectedMood": "Calm",
+      "sentimentScore": 7.8,
+      "analysisNote": "Initial academic performance anxiety smoothly transitioned into warm gratitude and team solidarity.",
+      "detectedEmotions": [
+        "relieved",
+        "grateful",
+        "grounded",
+        "accomplished"
+      ],
+      "tags": [
+        "college",
+        "project",
+        "resilience",
+        "tea"
+      ],
+      "createdAt": "2026-10-05T11:52:08.305Z",
+      "updatedAt": "2026-10-05T11:52:08.305Z"
+    },
+    {
+      "id": "j-02",
+      "userId": "user-aria-demo",
+      "title": "Overwhelmed by Endless Open Tabs",
+      "content": "I had 32 browser tabs open for React documentation, SQL schema tuning, and exam schedules. My head was throbbing by 4 PM and I felt like I was falling behind everyone in class. Took a 10-minute walk in the college garden and listened to soft acoustic rain sounds. Still feeling somewhat stressed, but taking it one task at a time.",
+      "manualMood": "Stressed",
+      "detectedMood": "Stressed",
+      "sentimentScore": 3.9,
+      "analysisNote": "Expressions of sensory and cognitive overload accompanied by productive self-regulation through nature walk.",
+      "detectedEmotions": [
+        "overwhelmed",
+        "fatigued",
+        "seeking calm"
+      ],
+      "tags": [
+        "study",
+        "burnout",
+        "nature-walk"
+      ],
+      "createdAt": "2026-10-03T11:52:08.305Z",
+      "updatedAt": "2026-10-03T11:52:08.305Z"
+    },
+    {
+      "id": "j-03",
+      "userId": "user-aria-demo",
+      "title": "Sunday Morning Sunlight & Fresh Berries",
+      "content": "Woke up without an alarm today. Sunlight was streaming through the sheer curtains creating soft golden patterns on my desk. Made strawberry pancakes and watered my tiny succulent plant. Did not open my laptop for 4 hours and it felt like my nervous system gave a deep collective exhale.",
+      "manualMood": "Happy",
+      "detectedMood": "Happy",
+      "sentimentScore": 9.2,
+      "analysisNote": "High sensory contentment, presence, and joyful restoration through slow morning rituals.",
+      "detectedEmotions": [
+        "peaceful",
+        "joyful",
+        "rested",
+        "warm"
+      ],
+      "tags": [
+        "weekend",
+        "self-care",
+        "slow-living"
+      ],
+      "createdAt": "2026-10-01T11:52:08.305Z",
+      "updatedAt": "2026-10-01T11:52:08.305Z"
+    },
+    {
+      "id": "j-04",
+      "userId": "user-aria-demo",
+      "title": "Late Night Doubts About the Future",
+      "content": "Could not sleep past 1 AM. Kept questioning whether I will get a good internship after BCA graduation and if my coding skills are adequate. Felt small and worried. Writing this down because keeping it trapped in my head makes the spirals louder.",
+      "manualMood": "Anxious",
+      "detectedMood": "Anxious",
+      "sentimentScore": 3.2,
+      "analysisNote": "Anticipatory future worry and imposter syndrome expressed during late-night hours. Writing served as healthy release.",
+      "detectedEmotions": [
+        "anxious",
+        "uncertain",
+        "vulnerable"
+      ],
+      "tags": [
+        "night-thoughts",
+        "career",
+        "honesty"
+      ],
+      "createdAt": "2026-09-29T11:52:08.305Z",
+      "updatedAt": "2026-09-29T11:52:08.305Z"
+    }
+  ],
+  "moodLogs": [
+    {
+      "id": "m-01",
+      "userId": "user-aria-demo",
+      "mood": "Calm",
+      "score": 8,
+      "source": "manual_checkin",
+      "notes": "Peaceful afternoon studying in the campus library corner.",
+      "timestamp": "2026-10-06T11:52:08.305Z"
+    },
+    {
+      "id": "m-02",
+      "userId": "user-aria-demo",
+      "mood": "Calm",
+      "score": 7.8,
+      "source": "journal",
+      "notes": "Relief after project presentation",
+      "timestamp": "2026-10-05T11:52:08.305Z"
+    },
+    {
+      "id": "m-03",
+      "userId": "user-aria-demo",
+      "mood": "Neutral",
+      "score": 6,
+      "source": "manual_checkin",
+      "notes": "Steady routine day with lectures and lab work.",
+      "timestamp": "2026-10-04T11:52:08.305Z"
+    },
+    {
+      "id": "m-04",
+      "userId": "user-aria-demo",
+      "mood": "Stressed",
+      "score": 3.9,
+      "source": "journal",
+      "notes": "Too many tabs and assignment deadlines",
+      "timestamp": "2026-10-03T11:52:08.305Z"
+    },
+    {
+      "id": "m-05",
+      "userId": "user-aria-demo",
+      "mood": "Happy",
+      "score": 8.5,
+      "source": "manual_checkin",
+      "notes": "Coffee with classmates and solved a stubborn SQL bug!",
+      "timestamp": "2026-10-02T11:52:08.305Z"
+    },
+    {
+      "id": "m-06",
+      "userId": "user-aria-demo",
+      "mood": "Happy",
+      "score": 9.2,
+      "source": "journal",
+      "notes": "Quiet Sunday morning with pancakes",
+      "timestamp": "2026-10-01T11:52:08.305Z"
+    },
+    {
+      "id": "m-07",
+      "userId": "user-aria-demo",
+      "mood": "Neutral",
+      "score": 5.5,
+      "source": "manual_checkin",
+      "notes": "Quiet Saturday chores and grocery shopping.",
+      "timestamp": "2026-09-30T11:52:08.305Z"
+    },
+    {
+      "id": "m-08",
+      "userId": "user-aria-demo",
+      "mood": "Anxious",
+      "score": 3.2,
+      "source": "journal",
+      "notes": "Late night future career doubts",
+      "timestamp": "2026-09-29T11:52:08.305Z"
+    }
+  ],
+  "assessmentResults": [
+    {
+      "id": "ar-01",
+      "userId": "user-aria-demo",
+      "assessmentId": "pss-stress",
+      "assessmentTitle": "Perceived Stress Self-Check",
+      "score": 11,
+      "maxScore": 24,
+      "percentage": 45,
+      "category": "Mild",
+      "date": "2026-10-04T11:52:08.305Z",
+      "feedback": "You are experiencing standard, manageable stress. Certain deadlines or unexpected shifts occasionally cause tension, but you remain resilient.",
+      "recommendations": [
+        "Incorporate a 5-minute breathing break before study sessions.",
+        "Break large college assignments into bite-sized 20-minute milestones.",
+        "Schedule an intentional cozy evening with no screen work."
+      ]
+    },
+    {
+      "id": "ar-02",
+      "userId": "user-aria-demo",
+      "assessmentId": "sleep-rest",
+      "assessmentTitle": "Sleep Quality & Mental Restfulness",
+      "score": 5,
+      "maxScore": 12,
+      "percentage": 41,
+      "category": "Mild",
+      "date": "2026-09-30T11:52:08.305Z",
+      "feedback": "Minor sleep friction, usually linked to evening screen time or late night college tasks.",
+      "recommendations": [
+        "Turn on blue light filters on all study laptops by 9 PM.",
+        "Write a \"brain dump\" list on paper before laying your head down."
+      ]
+    }
+  ],
+  "quizResults": [
+    {
+      "id": "qr-1791388982475",
+      "userId": "user-aria-demo",
+      "quizId": "overthinker-meter",
+      "quizTitle": "Are You an Overthinker?",
+      "resultKey": "balanced",
+      "resultTitle": "The Present Observer",
+      "resultSubtitle": "Balanced Thinker • Realistic and reflective",
+      "badge": "⚖️ Present Observer",
+      "date": "2026-10-07T16:03:02.475Z",
+      "description": "You think things through carefully without getting lost in endless loops. You know when to reflect and when to let the river flow.",
+      "advice": "Your balance is a gift. Keep checking in with yourself through your daily mood log to stay in tune with your rhythm."
+    },
+    {
+      "id": "qr-01",
+      "userId": "user-aria-demo",
+      "quizId": "emotional-vibe",
+      "quizTitle": "What Is Your Emotional Vibe Today?",
+      "resultKey": "pastel_bloom",
+      "resultTitle": "Pastel Meadow Bloom",
+      "resultSubtitle": "Soft, tender, romantic, and dreamy",
+      "badge": "🌸 Pastel Dreamer",
+      "date": "2026-10-05T11:52:08.305Z",
+      "description": "You are currently in a delicate, nurturing emotional space. You crave kindness, beauty in simple things, and peaceful human warmth.",
+      "advice": "Protect your tender softness! Light a gentle floral candle and write down 3 lovely sensory details from your day."
+    },
+    {
+      "id": "qr-02",
+      "userId": "user-aria-demo",
+      "quizId": "stress-style",
+      "quizTitle": "How Do You Handle Stress?",
+      "resultKey": "planner",
+      "resultTitle": "The Strategic Architect",
+      "resultSubtitle": "Control through structure & checklists",
+      "badge": "📐 Master Organizer",
+      "date": "2026-10-02T11:52:08.305Z",
+      "description": "When pressure spikes, you regain safety by creating order, lists, schedules, and plans.",
+      "advice": "Remember that life cannot always be optimized into a spreadsheet. Allow room for messy progress."
+    }
+  ]
+}
